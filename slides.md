@@ -10,6 +10,8 @@ lineNumbers: false
 
 git push 4
 
+<a href="./dist/assets/dist.zip">dist.zip</a>
+
 ---
 
 # Introduction: Why Fastify

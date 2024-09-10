@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 16
       - run: npm i
-      - run: npm run build -- --base /the-fastify-workshop/
+      - run: npm run build -- --base /test-pages/
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

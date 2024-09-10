@@ -8,6 +8,7 @@ lineNumbers: false
 
 # Test workshop
 
+git push 1
 
 ---
 

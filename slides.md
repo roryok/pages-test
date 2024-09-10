@@ -10,7 +10,7 @@ lineNumbers: false
 
 git push 4
 
-<a href="./dist/assets/dist.zip">dist.zip</a>
+<a href="./assets/dist.zip">dist.zip</a>
 
 ---
 

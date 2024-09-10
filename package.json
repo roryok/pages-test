@@ -6,6 +6,7 @@
   "scripts": {
     "build": "slidev build",
     "zip": "zip -r dist.zip dist/assets",
+    "copy": "cp dist.zip dist/assets",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

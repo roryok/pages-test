@@ -19,10 +19,6 @@ jobs:
       - run: npm i
       - run: npm run build -- --base /pages-test/
       - run: npm run zip
-      - name: Download release artifact
-        run: gh release download ${{ github.event.inputs.release-version || github.event.release.tag_name }} --pattern 'dist.zip'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

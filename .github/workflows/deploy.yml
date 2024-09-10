@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 16
       - run: npm i
-      - run: npm run build -- --base /test-pages/
+      - run: npm run build -- --base /pages-test/
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

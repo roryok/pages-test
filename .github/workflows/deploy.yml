@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm ci
+      - run: npm i
       - run: npm run build -- --base /the-fastify-workshop/
       - uses: peaceiris/actions-gh-pages@v4
         with:

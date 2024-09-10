@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "slidev build",
+    "zip": "zip -r dist.zip dist/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

@@ -6,45 +6,64 @@ lineNumbers: false
 ---
 
 
-# Test workshop
+# Linkedin Sales Navigator Exporter
 
-git push 4
+Linkedin Sales Navigator Exporter is a chrome extension developed for internal use. It allows anyone with a Linkedin Sales Navigator account to export leads lists to a CSV file format
+
+Click through the slides to find instructions on setting up / installing 
+
+---
+
+# How to use Linkedin Sales Navigator Exporter
+
+1. Download and Unzip
+
+Download this zip file, and extract it somewhere on your computer
 
 <a href="./assets/dist.zip">dist.zip</a>
 
----
 
-# Introduction: Why Fastify
-
-<div class="dense">
-
-- An efficient server implies lower infrastructure costs, better responsiveness under load, and happy users
-
-- How can you efficiently handle the server resources, while serving the highest number of requests possible, without sacrificing security validations and handy development?
-
-</div>
+<img src="/step03.png">
 
 ---
 
-# Introduction: Why Fastify /2
+# How to use Linkedin Sales Navigator Exporter /2
 
-<div class="dense">
-
-- Fastify is a Node.js web framework focused on performance and developer experience
-- The Fastify team has spent considerable time building a highly supportive and encouraging community
-- Fastify gained adoption by solving real needs of Node.js developers
-
-</div>
+2. In Chrome, click the menu, on "Extensions", and "Manage Extensions"
 
 ---
 
-# Core features
+# How to use Linkedin Sales Navigator Exporter /3
 
-<div class="dense">
+3. Enable "Developer Mode"
 
-- **Highly performant**: as far as we know, Fastify is one of the fastest web frameworks in town, depending on the code complexity we can serve up to 30k requests per second.
-- **Extensible**: fully extensible via hooks, plugins and decorators.
-- **Schema based**: It isn't mandatory, but we recommend to use JSON Schema to validate your routes and serialize your outputs. Fastify compiles the schema in a highly performant function.
+<img src="/step03.png">
 
-</div>
+---
 
+# How to use Linkedin Sales Navigator Exporter /4
+
+4. Click on "Load unpacked"
+
+---
+
+# How to use Linkedin Sales Navigator Exporter /5
+
+5. Highlight the folder unpacked earlier, and click "Select"
+
+---
+
+# How to use Linkedin Sales Navigator Exporter /6
+
+6. The extension will not appear in your extensions
+
+---
+
+# How to use Linkedin Sales Navigator Exporter /7
+
+7. Log in to Linkedin Sales Navigator and navigate to a lead list. 
+
+A button marked "Export CSV" will appear on the top right
+
+
+---

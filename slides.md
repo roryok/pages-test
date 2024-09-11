@@ -23,13 +23,13 @@ Download this zip file, and extract it somewhere on your computer
 <a href="./assets/dist.zip">dist.zip</a>
 
 
-<img src="/step03.png">
-
 ---
 
 # How to use Linkedin Sales Navigator Exporter /2
 
 2. In Chrome, click the menu, on "Extensions", and "Manage Extensions"
+
+<img src="/step02.png" style="width:50wv;">
 
 ---
 
@@ -37,7 +37,7 @@ Download this zip file, and extract it somewhere on your computer
 
 3. Enable "Developer Mode"
 
-<img src="/step03.png">
+<img src="/step03.png" style="width:50wv;">
 
 ---
 
@@ -45,25 +45,26 @@ Download this zip file, and extract it somewhere on your computer
 
 4. Click on "Load unpacked"
 
+<img src="/step04.png" style="width:50wv;">
+
 ---
 
 # How to use Linkedin Sales Navigator Exporter /5
 
 5. Highlight the folder unpacked earlier, and click "Select"
 
+<img src="/step05.png" style="width:50wv;">
+
 ---
 
 # How to use Linkedin Sales Navigator Exporter /6
 
-6. The extension will not appear in your extensions
-
----
-
-# How to use Linkedin Sales Navigator Exporter /7
-
-7. Log in to Linkedin Sales Navigator and navigate to a lead list. 
+6. Log in to Linkedin Sales Navigator and navigate to a lead list. 
 
 A button marked "Export CSV" will appear on the top right
+
+
+<img src="/step07.png" style="width:50wv;">
 
 
 ---

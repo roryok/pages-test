@@ -68,3 +68,13 @@ A button marked "Export CSV" will appear on the top right
 
 
 ---
+
+# How to use Linkedin Sales Navigator Exporter /7
+
+Clicking on the "Export CSV" button should export all pages of data to a CSV file. 
+
+It's best not to interact with the browser while this is happening. Click "Export CSV" and don't do anything until the file downloads. 
+
+If there are many pages of results in this table of data, it could take a few seconds per page, so please be patient and let the operation finish. 
+
+---

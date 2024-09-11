@@ -29,7 +29,9 @@ Download this zip file, and extract it somewhere on your computer
 
 2. In Chrome, click the menu, on "Extensions", and "Manage Extensions"
 
-<img src="/step02.png" style="width:50wv;">
+<Transform :scale="0.5">
+    <img src="/step02.png" style="width:50wv;">
+</Transform>
 
 ---
 
